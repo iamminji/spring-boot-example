@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.spring;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
